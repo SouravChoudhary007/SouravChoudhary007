@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @SouravChoudhary007
-- 👀 I’m interested in ... software engineering
-- 🌱 I’m currently exploring new things ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Sourav Choudhary!
 
-<!---
-SouravChoudhary007/SouravChoudhary007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Currently:** On a 120-day intensive journey to become a Data Analyst  
+📅 **Started:** December 23, 2025 | **Day:** 1/120  
+💼 **Goal:** Land my first Data Analytics job or internship  
+
+## 🚀 What I'm Learning
+- **SQL** (350+ problems)
+- **Python** (Pandas, NumPy, Data Analysis)
+- **Excel** (Advanced formulas, Pivot Tables)
+- **Power BI** (Dashboards & Visualizations)
+
+## 📊 My Journey
+📂 **Active Project:** [Learning_Data_Journey](https://github.com/SouravChoudhary007/Learning_Data_Journey)  
+⏰ **Daily Commitment:** 8-10 hours of focused learning  
+📈 **Progress:** [Check my daily updates here](https://github.com/SouravChoudhary007/Learning_Data_Journey)  
+
+
+**💪 Learning in public. Building every day. No excuses.** 🔥
