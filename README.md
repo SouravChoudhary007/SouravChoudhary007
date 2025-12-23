@@ -1,8 +1,8 @@
 👋 Hi, I'm Sourav Choudhary!
 
-🎯 **Currently:** On a 120-day intensive journey to become a Data Analyst  
+🎯 **Currently:** On a 120-day intensive journey  
 📅 **Started:** December 23, 2025 | **Day:** 1/120  
-💼 **Goal:** Land my first Data Analytics job or internship  
+💼 **Goal:** Land my first  job or internship  
 
 ## 🚀 What I'm Learning
 - **SQL** (350+ problems)
