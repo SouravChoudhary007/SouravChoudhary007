@@ -1,7 +1,8 @@
 👋 Hi, I'm Sourav Choudhary!
 
 🎯 **Currently:** On a 120-day intensive journey  
-📅 **Started:** December 23, 2025 | **Day:** 1/120  
+📅 **Started:** December 23, 2025 | 
+- **Days Completed:** 1.5 / 120 (Day 1 ✅, Day 2 ⚠️)
 💼 **Goal:** Land my first  job or internship  
 
 ## 🚀 What I'm Learning
